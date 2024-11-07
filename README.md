@@ -1,6 +1,6 @@
 ﻿# 3D-Racing-Game
-use Arrow to move
-c - camera change
+use Arrow to move;
+c - camera change;
 linK" https://3d-racing-game.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/a1a2d102-4c4d-44ef-9a7d-bd286e26f738)
